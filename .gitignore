@@ -1,0 +1,5 @@
+# Ignorar archivos y directorios generados por el entorno virtual de Python
+virt/
+/dcrm*.pyc
+dcrm/*.pyo
+dcrm/__pycache__/
